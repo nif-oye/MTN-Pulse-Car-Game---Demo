@@ -15,7 +15,11 @@ This project was created as a demo and is currently awaiting approval. The game 
 ### Media
 #### Gameplay
 Player collecting coins in the maze.
+
 ![Gameplay GIF](Media/gameplay.gif)
+
 ![Player collecting coins in the maze](Media/collecting-coins-1.jpg)
+
 ![Player collecting coins in the maze](Media/collecting-coins-2.jpg)
+
 ![Player collecting coins in the maze](Media/winning.jpg)
